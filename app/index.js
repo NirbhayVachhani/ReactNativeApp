@@ -65,7 +65,7 @@ const Index = () => {
           </TouchableOpacity>
 
           {/* Link to Register */}
-          <Link href="/register" style={styles.link}>
+          <Link href="/model" style={styles.link}>
             Don't have an account? Sign up
           </Link>
         </View>
